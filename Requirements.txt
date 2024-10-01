@@ -1,0 +1,17 @@
+# Basic machine learning and deep learning libraries
+tensorflow
+keras
+
+# For image processing and visualization
+matplotlib
+opencv-python
+
+# For GUI development
+tkinter
+
+# Additional libraries
+numpy
+pandas
+
+# Mediapipe for hand landmark detection
+mediapipe
